@@ -1,7 +1,7 @@
 # android-TNRAnimationHelper
 
 ![Platform](http://img.shields.io/badge/platform-android-blue.svg?style=flat)
-[![](https://jitpack.io/v/thunderrise/android-animations.svg)](https://jitpack.io/#thunderrise/android-animations)
+[![](https://jitpack.io/v/thunderrise/android-TNRAnimationHelper.svg)](https://jitpack.io/#thunderrise/android-TNRAnimationHelper)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/thunderrise/UIView-TNRAnimationHelper/blob/master/LICENSE)
 
 ##android-TNRAnimationHelper
