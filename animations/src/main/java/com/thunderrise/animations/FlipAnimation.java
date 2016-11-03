@@ -1,11 +1,9 @@
 package com.thunderrise.animations;
 
 import android.animation.ObjectAnimator;
-import android.animation.ValueAnimator;
 import android.support.annotation.NonNull;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
-import android.view.animation.LinearInterpolator;
 
 public class FlipAnimation {
 

@@ -5,7 +5,6 @@ import android.animation.PropertyValuesHolder;
 import android.animation.ValueAnimator;
 import android.support.annotation.NonNull;
 import android.view.View;
-import android.view.animation.LinearInterpolator;
 
 public class PulseAnimation {
 
